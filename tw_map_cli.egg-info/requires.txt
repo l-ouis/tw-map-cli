@@ -1,0 +1,3 @@
+twmap
+numpy
+windows-curses
